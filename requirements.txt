@@ -1,0 +1,13 @@
+tensorflow
+keras
+numpy
+opencv-python
+matplotlib
+pandas
+scikit-learn
+flask
+flask-cors
+flask-socketio
+pyttsx3
+psutil
+requests
